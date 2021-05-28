@@ -97,7 +97,7 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>DevOps_Project_release</name>
+	      <name>DevOps_Project_Release</name>
 	      <url>http://52.66.4.174:8081/repository/DevOps_Project_Release/</url>
 	    </repository>
 	    
